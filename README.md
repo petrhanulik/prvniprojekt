@@ -1,0 +1,2 @@
+# prvniprojekt
+analyzator textu
